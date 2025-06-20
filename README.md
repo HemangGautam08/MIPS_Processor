@@ -275,6 +275,7 @@ Each component is implemented as a separate module:
 The design supports future enhancements:
 
 - **Pipeline Implementation**: Framework for multi-cycle design
+- **Multi Core Implementation**: Framework for multi-core design
 - **Cache Integration**: Memory hierarchy support
 - **Instruction Set Extensions**: Additional MIPS instructions
 - **Performance Monitoring**: Instruction and cycle counting
