@@ -155,7 +155,7 @@ Download and install Icarus Verilog from the official website, or use WSL with U
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/lvl1ralts/MIPS_Processor.git
+git clone https://github.com/HemangGautam08/MIPS_Processor
 cd MIPS_Processor
 ```
 
